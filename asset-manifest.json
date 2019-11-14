@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/agrix/static/css/main.943f40f2.chunk.css",
-    "main.js": "/agrix/static/js/main.a8f15e7d.chunk.js",
-    "main.js.map": "/agrix/static/js/main.a8f15e7d.chunk.js.map",
+    "main.js": "/agrix/static/js/main.e5beee45.chunk.js",
+    "main.js.map": "/agrix/static/js/main.e5beee45.chunk.js.map",
     "runtime-main.js": "/agrix/static/js/runtime-main.684730e7.js",
     "runtime-main.js.map": "/agrix/static/js/runtime-main.684730e7.js.map",
-    "static/css/2.a1d6582b.chunk.css": "/agrix/static/css/2.a1d6582b.chunk.css",
-    "static/js/2.4f652f52.chunk.js": "/agrix/static/js/2.4f652f52.chunk.js",
-    "static/js/2.4f652f52.chunk.js.map": "/agrix/static/js/2.4f652f52.chunk.js.map",
+    "static/css/2.c65bbca0.chunk.css": "/agrix/static/css/2.c65bbca0.chunk.css",
+    "static/js/2.06ad2762.chunk.js": "/agrix/static/js/2.06ad2762.chunk.js",
+    "static/js/2.06ad2762.chunk.js.map": "/agrix/static/js/2.06ad2762.chunk.js.map",
     "index.html": "/agrix/index.html",
-    "precache-manifest.023df81033e2e40713c5a7777b26e8c3.js": "/agrix/precache-manifest.023df81033e2e40713c5a7777b26e8c3.js",
+    "precache-manifest.6ac98fd858d711d27755e109c3d05fc9.js": "/agrix/precache-manifest.6ac98fd858d711d27755e109c3d05fc9.js",
     "service-worker.js": "/agrix/service-worker.js",
-    "static/css/2.a1d6582b.chunk.css.map": "/agrix/static/css/2.a1d6582b.chunk.css.map",
+    "static/css/2.c65bbca0.chunk.css.map": "/agrix/static/css/2.c65bbca0.chunk.css.map",
     "static/css/main.943f40f2.chunk.css.map": "/agrix/static/css/main.943f40f2.chunk.css.map",
     "static/media/logo.png": "/agrix/static/media/logo.d2193e82.png"
   },
   "entrypoints": [
     "static/js/runtime-main.684730e7.js",
-    "static/css/2.a1d6582b.chunk.css",
-    "static/js/2.4f652f52.chunk.js",
+    "static/css/2.c65bbca0.chunk.css",
+    "static/js/2.06ad2762.chunk.js",
     "static/css/main.943f40f2.chunk.css",
-    "static/js/main.a8f15e7d.chunk.js"
+    "static/js/main.e5beee45.chunk.js"
   ]
 }
