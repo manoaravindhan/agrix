@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/agrix/static/css/main.9df1cf3f.chunk.css",
-    "main.js": "/agrix/static/js/main.e49b9dd6.chunk.js",
-    "main.js.map": "/agrix/static/js/main.e49b9dd6.chunk.js.map",
+    "main.js": "/agrix/static/js/main.eb21c55c.chunk.js",
+    "main.js.map": "/agrix/static/js/main.eb21c55c.chunk.js.map",
     "runtime-main.js": "/agrix/static/js/runtime-main.684730e7.js",
     "runtime-main.js.map": "/agrix/static/js/runtime-main.684730e7.js.map",
     "static/css/2.25e4f907.chunk.css": "/agrix/static/css/2.25e4f907.chunk.css",
-    "static/js/2.345b03e8.chunk.js": "/agrix/static/js/2.345b03e8.chunk.js",
-    "static/js/2.345b03e8.chunk.js.map": "/agrix/static/js/2.345b03e8.chunk.js.map",
+    "static/js/2.8a7587a8.chunk.js": "/agrix/static/js/2.8a7587a8.chunk.js",
+    "static/js/2.8a7587a8.chunk.js.map": "/agrix/static/js/2.8a7587a8.chunk.js.map",
     "index.html": "/agrix/index.html",
-    "precache-manifest.0a5e8f8c2bf355028c8e4dcb58b1ef21.js": "/agrix/precache-manifest.0a5e8f8c2bf355028c8e4dcb58b1ef21.js",
+    "precache-manifest.bfa9539e9718f4591bc5ad9cae389d50.js": "/agrix/precache-manifest.bfa9539e9718f4591bc5ad9cae389d50.js",
     "service-worker.js": "/agrix/service-worker.js",
     "static/css/2.25e4f907.chunk.css.map": "/agrix/static/css/2.25e4f907.chunk.css.map",
     "static/css/main.9df1cf3f.chunk.css.map": "/agrix/static/css/main.9df1cf3f.chunk.css.map",
@@ -18,8 +18,8 @@
   "entrypoints": [
     "static/js/runtime-main.684730e7.js",
     "static/css/2.25e4f907.chunk.css",
-    "static/js/2.345b03e8.chunk.js",
+    "static/js/2.8a7587a8.chunk.js",
     "static/css/main.9df1cf3f.chunk.css",
-    "static/js/main.e49b9dd6.chunk.js"
+    "static/js/main.eb21c55c.chunk.js"
   ]
 }
