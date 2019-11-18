@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/agrix/static/css/main.59cde355.chunk.css",
-    "main.js": "/agrix/static/js/main.c5ae310a.chunk.js",
-    "main.js.map": "/agrix/static/js/main.c5ae310a.chunk.js.map",
+    "main.js": "/agrix/static/js/main.859800f0.chunk.js",
+    "main.js.map": "/agrix/static/js/main.859800f0.chunk.js.map",
     "runtime-main.js": "/agrix/static/js/runtime-main.684730e7.js",
     "runtime-main.js.map": "/agrix/static/js/runtime-main.684730e7.js.map",
     "static/css/2.3c1663f1.chunk.css": "/agrix/static/css/2.3c1663f1.chunk.css",
     "static/js/2.413b0c16.chunk.js": "/agrix/static/js/2.413b0c16.chunk.js",
     "static/js/2.413b0c16.chunk.js.map": "/agrix/static/js/2.413b0c16.chunk.js.map",
     "index.html": "/agrix/index.html",
-    "precache-manifest.16b0c5b446685c24944cd4748f3538d7.js": "/agrix/precache-manifest.16b0c5b446685c24944cd4748f3538d7.js",
+    "precache-manifest.c955ea0931e41d5f89b2d9f215862058.js": "/agrix/precache-manifest.c955ea0931e41d5f89b2d9f215862058.js",
     "service-worker.js": "/agrix/service-worker.js",
     "static/css/2.3c1663f1.chunk.css.map": "/agrix/static/css/2.3c1663f1.chunk.css.map",
     "static/css/main.59cde355.chunk.css.map": "/agrix/static/css/main.59cde355.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.3c1663f1.chunk.css",
     "static/js/2.413b0c16.chunk.js",
     "static/css/main.59cde355.chunk.css",
-    "static/js/main.c5ae310a.chunk.js"
+    "static/js/main.859800f0.chunk.js"
   ]
 }
